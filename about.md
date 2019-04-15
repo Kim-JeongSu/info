@@ -7,7 +7,7 @@ comments: true
 
 ## Jeongsu Kim (김정수)
 
-![image](./assets/images/KJS.jpg)
+![image](/assets/images/KJS.jpg)
 
 #### Research Interests
 
