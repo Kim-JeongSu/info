@@ -4,25 +4,27 @@ title: About
 permalink: /about/
 ---
 
-# Jeongsu Kim (김정수)
+## Jeongsu Kim (김정수)
 
 ![image](KJS.jpg)
 
-## Research Interests
+### Research Interests
 
 - Computer Systems / Mobile Systems
 -	Computer Architecture
 -	Memory Management
 
+<div class="divider"></div>
 
-## Education
+### Education
 
 - Mar 2012 ~ Feb 2019  B.S. Dept. of Computer Science, Korea University
 - Mar 2012 ~ Feb 2019  B.S. Dept. of Convergence Security, Korea University
 -	Mar 2009 ~ Feb 2012  Jangseong High School
 
+<div class="divider"></div>
 
-## Coursework & Skills
+### Coursework & Skills
 - Object-oriented programming – Created a RPG game such as Crazy Arcades
 - Introduction to IoT – Created an Arduino App that plays a song in response to certain senses
 - Mobile Forensics – Analyzed a user’s lifestyle with data extracted from a smartphone
@@ -31,8 +33,9 @@ permalink: /about/
 - Application Programming – Created an app ‘DayTwo’ that records a diary, memos and to-do lists
 - Statistics Workshop (Korea Univ. Statistics Institute) – Learned Statistics Theory and SAS programming
 
+<div class="divider"></div>
 
-## Honors
+### Honors
 
 - KOSAF National Scholarship. 2012, 2013, 2015, 2016.
 - Undergraduate Student Scholarship. Korea University Association Inbong Foundation. Spring 2013.
