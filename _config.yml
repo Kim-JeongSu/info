@@ -3,7 +3,7 @@ title_left    : "Kim"
 title_right   : ".js" # default: ""
 description   : "Jeongsu Kim"
 keywords      : "kimjeongsu, jeongsukim, minimalist, koreauniversity, computerscience"
-url           : https://kim-jeongsu.github.io/info/ # site url
+url           : https://kim-jeongsu.github.io/info # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
