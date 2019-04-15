@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "How to Download or Use This Theme"
+title: "Draw District of Seoul using d3.js"
 comments: true
-description: "How to Download or Use This Theme"
-keywords: "dummy content"
+description: "Draw District of Seoul using d3.js"
+keywords: ""
 ---
 
 ### Use this theme as you main site
