@@ -6,7 +6,7 @@ permalink: /about/
 
 # Jeongsu Kim (김정수)
 
-![image](/KJS.jpg)
+![Minion](KJS.jpg)
 
 ## Research Interests
 
