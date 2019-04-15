@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+comments: true
+#permalink: /about/
 ---
 
 ## Jeongsu Kim (김정수)
