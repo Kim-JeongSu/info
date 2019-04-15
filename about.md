@@ -7,8 +7,7 @@ comments: true
 
 ## Jeongsu Kim (김정수)
 
-![image](/assets/images/KJS.jpg)
-![Minion](http://octodex.github.com/images/minion.png)
+![image](./assets/images/KJS.jpg)
 
 #### Research Interests
 
