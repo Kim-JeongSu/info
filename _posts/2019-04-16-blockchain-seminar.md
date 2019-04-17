@@ -1,142 +1,38 @@
 ---
 layout: post
-title: "블록체인세미나-건국대"
+title: "Blockchain Seminar (190404-190405)"
 comments: true
-description: "Markdown Cheatsheet Demo..."
-keywords: "markdown, typography components, dummy content"
+description: "Blockchain Seminar - Ethereum, Hyperledger, DApp development"
+keywords: "markdown, Blockchain, Ethereum, Hyperledger, DApp"
 ---
 
-## Typography Elements in One
+# 쉽게 따라하는 블록체인과 DAPP개발 이론과 실전
+## Ethereum과 Hyperledger를 중심으로
 
-Let's start with a informative paragraph. **This text is bolded.** But not this one! _How about italic text?_ Cool right? Ok, let's **_combine_** them together. Yeah, that's right! I have code to highlight, so `ThisIsMyCode()`. What a nice! Good people will hyperlink away, so [here we go](#) or [http://www.example.com](http://www.example.com).
+### 세미나 일정
 
-<div class="divider"></div>
-
-## Headings H1 to H6
-
-# H1 Heading
-
-## H2 Heading
-
-### H3 Heading
-
-#### H4 Heading
-
-##### H5 Heading
-
-###### H6 Heading
+한구컴퓨터통신연구회(OSIA)와 광운대학교 SW중심대학사업단의 주최로 이뤄진 이번 세미나는 건국대에서 열렸다. 이틀 간의 일정으로 진행된 세미나는 블록체인의 기본개념부터 최근 이슈와 DAPP 개발 실습까지 알차게 구성됐다.
+<img src="https://photos.app.goo.gl/zx9TShkvRUYhpVab8" width="30%">
+<img src="https://photos.app.goo.gl/FgDDotu2FsuNf1Xx8" width="30%">
 
 <div class="divider"></div>
 
-## Footnote
+### 세미나 내용
 
-Let's say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [[^1]]. You can even add more footnotes, with link! [[^2]]
+비트코인으로 대중들에게 알려지기 시작한 블록체인은 1세대 가상통화로서의 비트코인, 2세대 스마트계약이 가능한 Ethereum, 3세대 다양한 플랫폼의 개발로 발전해나가고 있다. Block단위의 데이터를 Chain처럼 연결하여 저장하기 때문에 이름 붙여진 블록체인(BlockChain)은 데이터 분산 저장 기술의 일종으로 저장된 데이터를 모든 사용자에게 분산하여 저장한다. 공개키암호화, 해시암호화 기반으로 데이터를 저장하는 블록체인은 보안, 투명성, 분산화에 뛰어난 특징을 보인다.
+블록체인의 채굴자의 범위에 따라 Public Blockchain(Permissionless Blockchain)인지 Private Blockchain(Permissioned Blockchain)인지 나뉘게 된다.
+블록체인의 주요 이슈 중 하나는 이중 거래(Double Spending) 문제인데 이를 해결하기 위해서 다양한 합의 알고리즘(Consensus Algorithms)의 개발이 이뤄지고 있다. 블록체인은 한 줄이 되어야 하는데 분기가 일어나면 분기에서 이중거래의 문제가 발생할 수 있다. 따라서 1)분기가 일어나지 않게 함으로 이중거래를 방지하거나 2)분기가 일어나도 분기를 잘 관리할 수 있는 합의 알고리즘을 적절히 사용하는 것이 필요하다. 이 알고리즘에는 PoW, PoS, DPoS, PoA, Paxos, BFT, RAFT 등이 있다.
+메인넷의 여부에 따라 토큰과 코인의 차이가 발생한다. EoS의 경우는 토큰으로 시작했는데 18년 6월 메인넷을 런칭하면서 코인이 되었다.
+블록체인의 플랫폼에는 Bitcoin, Ethereum, Eos, Hyperledger Fabrics 등이 있다.
 
-<div class="divider"></div>
+블록체인에 대해 좀 더 자세하게 정리한 내용은 여기[https://docs.google.com/document/d/1X4tqR4P61jBS6Fgjt_yZGjVINia_dgtCjfY_1DjavLo/edit?usp=sharing]를 참고하자.
 
-## Blockquote
-
-> Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. --Francis of Assisi
-
-**NOTE:** This theme does NOT support nested blockquotes.
-
-<div class="divider"></div>
-
-## List Items
-
-1. First order list item
-2. Second item
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+다소 아쉬운 것이 있었다면 지금 가지고 있는 노트북이 매우 저사양이라서 실습시간을 알차게 보내지 못했다는 것이다. Ethereum와 Hyperledger DApp 개발이 어떻게 이뤄지는지 정도만 '보고'와서 연구실에 돌아가서 실습을 해봐야겠다.
 
 <div class="divider"></div>
 
-## Code Blocks
+### 후기
 
-```javascript
-var modularpattern = (function() {
-    // your module code goes here
-    var sum = 0 ;
+블록체인에 대해 이름만 들어봤던 나로서는 모든 개념들이 생소해 용어들이 익숙해지고, 개념을 이해하는데까지는 다소 시간이 걸렸지만 세미나 이후 블록체인에 대한 이해가 깊어지고 관심도가 높아진 것은 커다란 수확이었다. 세미나에 참석할 수 있게 해 주신 교수님과 연구실 선배님들에게 감사드린다.
 
-    return {
-        add:function() {
-            sum = sum + 1;
-            return sum;
-        },
-        reset:function() {
-            return sum = 0;    
-        }  
-    }   
-}());
-alert(modularpattern.add());    // alerts: 1
-alert(modularpattern.add());    // alerts: 2
-alert(modularpattern.reset());  // alerts: 0
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-<div class="divider"></div>
-
-## Table
-
-### Table 1: With Alignment
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-### Table 2: With Typography Elements
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<div class="divider"></div>
-
-## Horizontal Line
-
-The HTML `<hr>` element is for creating a "thematic break" between paragraph-level elements. In markdown, you can create a `<hr>` with any of the following:
-
-* `___`: three consecutive underscores
-* `---`: three consecutive dashes
-* `***`: three consecutive asterisks
-
-renders to:
-
-___
-
----
-
-***
-
-<div class="divider"></div>
-
-## Media
-
-### YouTube Embedded Iframe
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/n1a7o44WxNo" frameborder="0" allowfullscreen></iframe></div>
-
-### Image
-
-![Minion](http://octodex.github.com/images/minion.png)
-
----
-Footnote:
-
-[^1]: 1: Footnote number one yeah baby!
-
-[^2]: 2: A footnote you can link to - [click here!](#)
+[PHOTO](https://photos.app.goo.gl/BPKiDXtPxSPwy6bw7)
