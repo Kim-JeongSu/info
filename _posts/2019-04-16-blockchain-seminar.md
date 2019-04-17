@@ -5,15 +5,15 @@ comments: true
 description: "Blockchain Seminar - Ethereum, Hyperledger, DApp development"
 keywords: "markdown, Blockchain, Ethereum, Hyperledger, DApp"
 ---
-  
-# 쉽게 따라하는 블록체인과 DAPP개발 이론과 실전
+
+# 쉽게 따라하는 블록체인과 DApp개발 이론과 실전
 ## Ethereum과 Hyperledger를 중심으로  
 
 ### 세미나 일정
 
 한구컴퓨터통신연구회(OSIA)와 광운대학교 SW중심대학사업단의 주최로 이뤄진 이번 세미나는 건국대에서 열렸다. 이틀 간의 일정으로 진행된 세미나는 블록체인의 기본개념부터 최근 이슈와 DAPP 개발 실습까지 알차게 구성됐다.
-![1](https://photos.app.goo.gl/zx9TShkvRUYhpVab8)
-![2](https://photos.app.goo.gl/FgDDotu2FsuNf1Xx8)
+![1](https://lh3.googleusercontent.com/kljmfQLeMnqFNoZo_5NUpmZhmEJ4BtQaEbxWgOGToaaatbiW3FmNjSOjJlvj1bXbNiXcaqk9Pt1ZZicnWzjeFAirmou2FeyjO4P-4xd645pwq3sDk-pmmZ1efovAKR8fGpRtI5hiYlZTY-8u23M6JxrPAJIRC7N5oQMkReFl2yi9-8gT6y2GaFSAaScZB007Jne4nr7qnTb1EXFvIb0MqwBY0arCZzuF_H4tVH3Kjo5XA0ZMSxZh-ZWUCG_dYMGZTXc73NRhohfA4QWM2T7H3eD5PUXo1hAytAIWMxY1QNoxzAc2YROjs_ymXrXvglPsGRbZz8DxJFJMcAbGuh6nddEGZZ5tfCM1Bfz1yTxRkuuSa2b9GUpdj363EYBkagyQ3V1tAYK-n54U1HaLSbsu9YHt4IRt8v0yMOtQim0smLCUVtGK1ffd6px7ZOEQe-UDPJGOjrYUNEtyaawuC00EmOvqxoMNZIoiwV_ogI109_QCv_27dEzgYQGEG3LXf928GLEgPVDC3_UDNl9HcodSUAv1gk2XnDztBVrjWGMvSSg3rVMJUzjarrugb_99jT3-pBhwfRRnIo6gieo6LAyVy7bazD5JK6QmxlJPyLni6hSUO0BIDl2BD86iSubD6XyCSATEGAqoFNU9Mz84lJqkM1J_pbbwAq8SXVDjhYTiJgpiix3mVpjbVed0gUsv_z0BMUuqKAsCDXSywTV1Kiqsp5IF=w536-h928-no)
+![2](https://lh3.googleusercontent.com/ndXsv5FWRtTrTR9gTuTsu2rKzCJAFvz1kAuZaw3pooP0_O5ZNMUYl4zWKmPHo5PvqQbG2V-ogizNwtb-lqn22msKokyICrwqIEnJ_I5GN2URErUvJuzymYizbcqy5IOJLd7cxTIl0hCdhI77od0hg9JptIBc0zhAg4LDjWXt_4bZec8N0nDbvigN6gv3R0EmW3dO0bGZ6kjqeCMD5IzPc4r6nDdq8kNQAqyC2t94u9RJ1jJQ6BPE4_UW5DuBRMFalTfWaE3nf3ve9aIofrWkoSE5nOJR3gRiOaxqyCZiQ83wJpkozK0EpafvS28EE1v4OxMGQocm-wZB7R19ZSxIMweenWyo9IN1KEs6QZuZkTtw3bFZ8Ju5QXMjZhPB6R2Y3p4l3-Lib2ySSYsr3OoPsCWS2UdtADcy_ZQ-asFFihBBllsYGZDbyDvjx1PeRLObkD8Fd4KBqNE-mFlJKRJmp4N2etj9LZ13_4a1a0z57mCkE5MJi8a4xZGNl3blu4OxuiYaWZj5dEuNffLAFOPMLKww3jHoay-RvWn_IpFilyo9ya2ykXB-BTeaVUYGdwu36Fg7Nt6qwVovDCcuuTUb0golZHR38PZj7fxbTTlCEhpBnAkNPL2ZNR3-nLNCYl3yvLJIu6sLLjjw7Jm_K08hO59D7YGPmypUjj4BtauQAIhvcm5UPIr8DFzG_m7Yw7FO0YbnPul7It1TaFXzy2UgvtLl=w583-h928-no)
 
 <div class="divider"></div>
 
