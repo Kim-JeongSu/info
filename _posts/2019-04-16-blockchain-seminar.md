@@ -9,6 +9,8 @@ keywords: "markdown, Blockchain, Ethereum, Hyperledger, DApp"
 # 쉽게 따라하는 블록체인과 DApp개발 이론과 실전
 ## Ethereum과 Hyperledger를 중심으로  
 
+<div class="divider"></div>
+
 ### 세미나 일정
 
 한구컴퓨터통신연구회(OSIA)와 광운대학교 SW중심대학사업단의 주최로 이뤄진 이번 세미나는 건국대에서 열렸다. 이틀 간의 일정으로 진행된 세미나는 블록체인의 기본개념부터 최근 이슈와 DAPP 개발 실습까지 알차게 구성됐다.
