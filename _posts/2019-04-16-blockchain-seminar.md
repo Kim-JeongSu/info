@@ -5,7 +5,7 @@ comments: true
 description: "Blockchain Seminar - Ethereum, Hyperledger, DApp development"
 keywords: "markdown, Blockchain, Ethereum, Hyperledger, DApp"
 ---
-
+  
 # 쉽게 따라하는 블록체인과 DAPP개발 이론과 실전
 ## Ethereum과 Hyperledger를 중심으로  
 
@@ -27,7 +27,7 @@ keywords: "markdown, Blockchain, Ethereum, Hyperledger, DApp"
 
 블록체인에 대해 좀 더 자세하게 정리한 내용은 [여기](https://docs.google.com/document/d/1X4tqR4P61jBS6Fgjt_yZGjVINia_dgtCjfY_1DjavLo/edit?usp=sharing)를 참고하자.
 
-재미있었던 것은 한국항공대 박종서 교수님의 강의시간에 BRD라 비트코인지갑에 비트코인을 보내줬던 것이다. 강의만 듣고난 후 돌아가서 아무것도 하지 않으면 말짱도루묵이라며 직접 비트코인을 써봐야 한다면서 0.0001 BTC ~~(당시엔 571원이었는데 4월 17일 기준 591원이 됐다!)~~를 원하는 사람들에게 보내주셨다. 신기하기도 하고 재미있기도 해서 돌아가서도 블록체인을 열심히 공부해야겠다는 동기부여가 됐다.
+재미있었던 것은 한국항공대 박종서 교수님의 강의시간에 BRD라 비트코인지갑에 비트코인을 보내줬던 것이다. 강의만 듣고난 후 돌아가서 아무것도 하지 않으면 말짱도루묵이라며 직접 비트코인을 써봐야 한다면서 0.0001 BTC씩(~~당시엔 571원이었는데 4월 17일 기준 591원이 됐다!~~), 원하는 사람들에게 보내주셨다. 신기하기도 하고 재미있기도 해서 돌아가서도 블록체인을 열심히 공부해야겠다는 동기부여가 됐다.
 
 다소 아쉬운 것이 있었다면 지금 가지고 있는 노트북이 매우 저사양이라서 실습시간을 알차게 보내지 못했다는 것이다. Ethereum와 Hyperledger DApp 개발이 어떻게 이뤄지는지 정도만 '보고'와서 연구실에 돌아가서 실습을 해봐야겠다.
 
@@ -35,6 +35,6 @@ keywords: "markdown, Blockchain, Ethereum, Hyperledger, DApp"
 
 ### 후기
 
-블록체인에 대해 이름만 들어봤던 나로서는 모든 개념들이 생소해 용어들이 익숙해지고, 개념을 이해하는데까지는 다소 시간이 걸렸지만 세미나 이후 블록체인에 대한 이해가 깊어지고 관심도가 높아진 것은 커다란 수확이었다. 세미나에 참석할 수 있게 해 주신 교수님과 연구실 선배님들에게 감사드린다.
+블록체인에 대해 이름만 들어봤던 나로서는 모든 개념들이 생소해 용어들이 익숙해지고, 개념을 이해하는데까지는 다소 시간이 걸렸지만 세미나 이후 블록체인에 대한 이해가 깊어지고 관심도가 높아진 것은 커다란 수확이었다. 세미나에 참석할 수 있게 해 주신 교수님과 연구실 선배님들에게 감사드린다.  
 
 [[PHOTO]](https://photos.app.goo.gl/BPKiDXtPxSPwy6bw7)
