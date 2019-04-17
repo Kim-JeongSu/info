@@ -27,7 +27,7 @@ keywords: "markdown, Blockchain, Ethereum, Hyperledger, DApp"
 메인넷의 여부에 따라 토큰과 코인의 차이가 발생한다. EoS의 경우는 토큰으로 시작했는데 18년 6월 메인넷을 런칭하면서 코인이 되었다.
 블록체인의 플랫폼에는 Bitcoin, Ethereum, Eos, Hyperledger Fabrics 등이 있다.
 
-블록체인에 대해 좀 더 자세하게 정리한 내용은 [여기](/_posts/블록체인-190405.pdf)를 참고하자.
+블록체인에 대해 좀 더 자세하게 정리한 내용은 [[여기](https://github.com/Kim-JeongSu/info/blob/master/_posts/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-190405.pdf)]를 참고하자.
 
 재미있었던 것은 한국항공대 박종서 교수님의 강의시간에 BRD라 비트코인지갑에 비트코인을 보내줬던 것이다. 강의만 듣고난 후 돌아가서 아무것도 하지 않으면 말짱도루묵이라며 직접 비트코인을 써봐야 한다면서 0.0001 BTC씩(~~당시엔 571원이었는데 4월 17일 기준 591원이 됐다!~~), 원하는 사람들에게 보내주셨다. 신기하기도 하고 재미있기도 해서 돌아가서도 블록체인을 열심히 공부해야겠다는 동기부여가 됐다.
 
@@ -41,4 +41,4 @@ keywords: "markdown, Blockchain, Ethereum, Hyperledger, DApp"
 
 <div class="divider"></div>
 
-[[PHOTO]](https://photos.app.goo.gl/BPKiDXtPxSPwy6bw7)  [[SUMMARY]](/_posts/블록체인-190405.pdf)
+[[PHOTO]](https://photos.app.goo.gl/BPKiDXtPxSPwy6bw7)  [[SUMMARY]](https://github.com/Kim-JeongSu/info/blob/master/_posts/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-190405.pdf)
