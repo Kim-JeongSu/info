@@ -16,5 +16,7 @@ css, scss, 이미지소스
 기본정보들
 
 ##blog.html
+블로그 페이지 레이아웃
 
 ##index.html
+첫화면&about 내용
